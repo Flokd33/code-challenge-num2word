@@ -23,6 +23,7 @@ Instructions:
 #Open the 'code_challenge' script and change the 'input_data_path' variable (line 4) with the relevant input file path ('num2words_test_file' can be used as input). Note that in order to read a .TXT file you need to use 'read.delim()' function instead of  'read.csv' function.
 #Execute the script and the output will be displayed in the console. The output object has been named 'output_data' and can it can be display from the Global Environment (RStudio) 
 #Note that the last section of the script 'Test with random numbers' enable you to test the function with random numbers between 1 and 1 trillion. To use this please just uncomment the 3 last rows of the script by removing the '#' character and then execute the 3 last rows
+#Alternatively you can just run the 'shiny_app_num2words.R' script and browse to upload the desired input file. Output will be displayed in the App.
 
 Technical Requirements: 
 #R: ideally R version > 3.6.0
