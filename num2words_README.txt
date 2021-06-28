@@ -4,6 +4,7 @@ Files:
 #'shiny_app_num2words.R'
 #'num2words_test_file.csv'
 #'num2words_test_file.txt'
+#'num2words_README.txt'
 
 Comments:
 #'num2words.R' is a function that converts a given number to words. 
